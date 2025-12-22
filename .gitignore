@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# Selenium
+screenshots/
+reports/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
