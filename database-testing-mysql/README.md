@@ -29,4 +29,14 @@ This project validates loans, returns, overdue books, and rules like "maximum ac
 - Data validation and business rule testing
 - Database design basics
 - QA mindset for backend testing
+## Query Results Examples
+
+### Total Loans per Month in 2025
+![Total Loans per Month](total_loans.png)
+
+### Overdue Loans Detection
+![Overdue Loans](overdue_loans.png)
+
+### Available Books for Loan
+![Available Books](available_books.png)
 
