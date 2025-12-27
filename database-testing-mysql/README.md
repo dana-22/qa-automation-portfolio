@@ -32,11 +32,11 @@ This project validates loans, returns, overdue books, and rules like "maximum ac
 ## Query Results Examples
 
 ### Total Loans per Month in 2025
-![Total Loans per Month](total_loans.png)
+<img width="1920" height="1080" alt="total_loans" src="https://github.com/user-attachments/assets/5cc45e28-3a0d-40a5-84c3-4baa778cdd12" />
 
 ### Overdue Loans Detection
-![Overdue Loans](overdue_loans.png)
+<img width="1920" height="1080" alt="overdue_loans" src="https://github.com/user-attachments/assets/43f401ba-e1b8-4989-acf3-1f8aaa38fd87" />
 
 ### Available Books for Loan
-![Available Books](available_books.png)
+<img width="1920" height="1080" alt="available_copies" src="https://github.com/user-attachments/assets/ffbea8f0-9426-432a-8681-8cbd7b116864" />
 
